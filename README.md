@@ -1,4 +1,4 @@
-# House-Price-prediction-Kaggle-Competition-
+# House Price Prediction Kaggle Competition
 
 
 ![image](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
