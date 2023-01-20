@@ -7,7 +7,7 @@
 ## Data resource
 This a kaggle competition with two datasets, train.csv and test.csv. [link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 <br>
-**Target variable:** The house price <br>
+**Target variable:** The house price, 1460 instances <br>
 **Features:** 79 features about the house condistion. 
 
 ## Purpose Description 
